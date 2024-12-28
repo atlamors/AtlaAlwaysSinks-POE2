@@ -417,6 +417,16 @@ Rarity Magic
 SetFontSize 40
 
 #--------------------------
+# Valuable Bases
+#--------------------------
+
+Show
+Class "Body Armor"
+Rarity Normal
+SetFontSize 40
+MinimapIcon 1 White Diamond
+
+#--------------------------
 # Salvagable Items
 #--------------------------
 

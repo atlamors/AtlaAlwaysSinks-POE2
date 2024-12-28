@@ -421,7 +421,7 @@ SetFontSize 40
 #--------------------------
 
 Show
-Class "Body Armor"
+Class "Body Armours"
 Rarity Normal
 SetFontSize 40
 MinimapIcon 1 White Diamond
